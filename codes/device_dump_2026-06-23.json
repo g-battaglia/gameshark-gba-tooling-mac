@@ -1,0 +1,179 @@
+{
+  "source": "usbtool -c dump of connected device",
+  "num_games": 5,
+  "num_cheats": 10,
+  "games": [
+    {
+      "name": "POKEMON RF",
+      "game_id": "BPGE",
+      "master_hook": "0x000604",
+      "cheats": [
+        {
+          "name": "CODICE CHIAVE",
+          "flags": 2,
+          "pairs": 6,
+          "encrypted": [
+            "e6a003d6 8110ddd5",
+            "56671f3a 6f4f4d6b",
+            "24c35e88 037c3033",
+            "78da95df 44018cb4",
+            "28f71f08 abb36538",
+            "69ba4f26 72716663"
+          ],
+          "decrypted": [
+            "c4000604 00008401  ; HOOK",
+            "45475042 001dc0de  ; GAME-ID",
+            "00000000 1802603c",
+            "00002100 00000000",
+            "4230500c 07900000",
+            "4230500c 07910000"
+          ]
+        },
+        {
+          "name": "SLDI INF",
+          "flags": 0,
+          "pairs": 1,
+          "encrypted": [
+            "29c78059 96542194"
+          ],
+          "decrypted": [
+            "042257bc 000f423f"
+          ]
+        },
+        {
+          "name": "POKEDEX COMPLETO",
+          "flags": 2,
+          "pairs": 7,
+          "encrypted": [
+            "44922452 a6679872",
+            "a4de1ef7 a145f2b5",
+            "f9a6f00f 4448804e",
+            "255c30d0 2e205665",
+            "135537e8 b636c062",
+            "0fd078fa 68178f72",
+            "47870cd6 6fc0e827"
+          ],
+          "decrypted": [
+            "002245a3 000000b9",
+            "90e3485a 0a0980f0",
+            "00226514 00000001",
+            "002245e4 000030ff",
+            "00225b24 000030ff",
+            "00228f44 000030ff",
+            "002245b0 000030ff"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MINISH",
+      "game_id": null,
+      "master_hook": null,
+      "cheats": [
+        {
+          "name": "MUST BE ON",
+          "flags": 0,
+          "pairs": 2,
+          "encrypted": [
+            "98ed2c34 edc1347c",
+            "acf89295 6a0bf4eb"
+          ],
+          "decrypted": [
+            "c9f79b9e 86aa7528",
+            "973cfe5a 52b0fc19"
+          ]
+        },
+        {
+          "name": "SHILD",
+          "flags": 0,
+          "pairs": 1,
+          "encrypted": [
+            "d0cfa924 33762a6e"
+          ],
+          "decrypted": [
+            "02202b34 00001000"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DUNGEONDICE MONSTERS",
+      "game_id": "AYDE",
+      "master_hook": "0x027e0e",
+      "cheats": [
+        {
+          "name": "M",
+          "flags": 2,
+          "pairs": 2,
+          "encrypted": [
+            "9a568daa 212e4ac3",
+            "6c03bf68 077b33e7"
+          ],
+          "decrypted": [
+            "c4027e0e 00008401  ; HOOK",
+            "45445941 001dc0de  ; GAME-ID"
+          ]
+        },
+        {
+          "name": "INF MONEY",
+          "flags": 2,
+          "pairs": 1,
+          "encrypted": [
+            "fa480bf4 b8f6592f"
+          ],
+          "decrypted": [
+            "0223e304 0000ffff"
+          ]
+        },
+        {
+          "name": "MOVE",
+          "flags": 2,
+          "pairs": 1,
+          "encrypted": [
+            "9b4bf591 d2fd706b"
+          ],
+          "decrypted": [
+            "0023dd48 00000064"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DDM",
+      "game_id": null,
+      "master_hook": null,
+      "cheats": [
+        {
+          "name": "M",
+          "flags": 2,
+          "pairs": 2,
+          "encrypted": [
+            "c077f7fb 021a120f",
+            "348f896f 5e31ca5c"
+          ],
+          "decrypted": [
+            "2b8b60ab 37a74a09",
+            "1fb814a5 b7efbd9d"
+          ]
+        },
+        {
+          "name": "MONEY",
+          "flags": 2,
+          "pairs": 1,
+          "encrypted": [
+            "5a571701 7babf3c5"
+          ],
+          "decrypted": [
+            "339f9102 78b78316"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FFTA",
+      "game_id": null,
+      "master_hook": null,
+      "cheats": []
+    }
+  ]
+}
