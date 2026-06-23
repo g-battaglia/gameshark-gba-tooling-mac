@@ -1,0 +1,1866 @@
+{
+  "games": [
+    {
+      "name": "POKEMON RUBY",
+      "cheats": [
+        {
+          "flags": 2,
+          "name": "Must Be On",
+          "codes": [
+            "F57C7BCB ADC632B9",
+            "78FB7638 3F413AA3"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Always Female Pokémo",
+          "codes": [
+            "0C3D5307 ABB44D7C",
+            "78DA95DF 44018CB4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Always Male Pokémons",
+          "codes": [
+            "0C3D5307 ABB44D7C",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed HP Gene",
+          "codes": [
+            "28330312 B9E777D4",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Attack Gene",
+          "codes": [
+            "BD34E89C 46AC3FDD",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Defense Gene",
+          "codes": [
+            "C5F9E49A 1DC472F1",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Speed Gene",
+          "codes": [
+            "05DF5C70 440053F5",
+            "25260C8D 25207DAE"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Sp.Atk Gene",
+          "codes": [
+            "0526A00A F717AC06",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Sp.Def Gene",
+          "codes": [
+            "3362EF2D D6B8C92E",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "All Genes Maxed Out",
+          "codes": [
+            "AB5FF5EF A7716843",
+            "4B5258BD DBEA8F6E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Pokerus",
+          "codes": [
+            "C784FC61 63EBC3B6",
+            "117279A9 85478753"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Select 1st Ability",
+          "codes": [
+            "1801D754 AFDD78F8",
+            "8E883EFF 92E9660D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Select 2nd Ability",
+          "codes": [
+            "1801D754 AFDD78F8",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Switch Shiny/Normal ",
+          "codes": [
+            "9C9A6FEF 898BA04C",
+            "B9D6A4E9 F3B94D86"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Shiny colors in Summ",
+          "codes": [
+            "92565F8E 37F62000",
+            "BCDCB406 2F2FD763"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Day Care - Female in",
+          "codes": [
+            "7A2C40E4 06AFEFA1",
+            "9AB20DC0 97849B9B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Day Care - Male in e",
+          "codes": [
+            "A0F59292 AB07DEFE",
+            "A88D8B3A 975E4033"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Pickup Ability to Ev",
+          "codes": [
+            "8A56A1C4 8FA1C490",
+            "65DA389A 09D8882C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Hardy",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D0E34D66 5796A7D3"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Lonely",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D73BC50A 5F47AA0E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Brave",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "E485844D 2F24038C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Adamant",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "5EB8DEEE 692ED298"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Naughty",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "83286B46 6479AA98"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Bold",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "35EB915F 08F33974"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Docile",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "A58F6F1B BFB13FEF"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Relaxed",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "34027F23 7E7E1599"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Impish",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "CDA2AB99 F89D5BB9"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Lax",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D593BF29 E18AAAE5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Timid",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "1BC372C9 06B4D17F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Hasty",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D4950A99 D729D80A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Serious",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "93F04759 F95753D9"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Jolly",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "E9EC2CBF A7EDD4A7"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Naive",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "56F744B0 37E16732"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Modest",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "E1EB2109 4480C28D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Mild",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "A2461E51 304137B6"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Quiet",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "0456554B 66D3AAF9"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Bashful",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "B05B4CCD A0A1505B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Rash",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "909149AB 2DE8726A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Calm",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "31F62F82 D9A0C100"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Gentle",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "9A41D845 41B93FE6"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Sassy",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D47DA721 6C3B9FFC"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Careful",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "1A15BF1E E72650E4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Quirky",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "5A7B2626 21ECD183"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level Modifier ",
+          "codes": [
+            "BB0C2FFA D24902D2"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level 100",
+          "codes": [
+            "56307399 25DF4466"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level 50",
+          "codes": [
+            "CBEB73A3 90A08906"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level 5",
+          "codes": [
+            "A9E4EA45 3651CADD"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Unlimited Items",
+          "codes": [
+            "75602F52 85185328"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Learn any TM/HM for ",
+          "codes": [
+            "4C8DB8CE 6D013B2A",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Learn any TM/HM for ",
+          "codes": [
+            "4527FEBC 861F2C3C",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Make HM Moves erasab",
+          "codes": [
+            "ADA17A5E 7BDBE3F1",
+            "F3FA719F BF1FDAED"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Items - 1st item ",
+          "codes": [
+            "458DC267 EE7A6705"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Master Bal",
+          "codes": [
+            "91B85743 27069397"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Ultra Ball",
+          "codes": [
+            "665AA231 7AF97569"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Great Ball",
+          "codes": [
+            "2B5B13EB AAAD7486"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Poke Ball",
+          "codes": [
+            "BCDEC2FB 74886C64"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Safari Bal",
+          "codes": [
+            "F6AFD320 C7BB151C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Net Ball",
+          "codes": [
+            "7DC18932 F76E288A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Dive Ball",
+          "codes": [
+            "16176578 3EFE931C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Nest Ball",
+          "codes": [
+            "FEC7EE05 88819C1B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Repeat Bal",
+          "codes": [
+            "2AAD3668 BE51C16C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Timer Ball",
+          "codes": [
+            "F2B1C7A2 E4FE2DFE"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Luxury Bal",
+          "codes": [
+            "DB82606F C24E1F25"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Premier Ba",
+          "codes": [
+            "63CD4DFB C0B2FA00"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Full Resto",
+          "codes": [
+            "CE01C8D6 BEDA83FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Potion",
+          "codes": [
+            "82B6F31B AD2D7811"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Hyper Poti",
+          "codes": [
+            "A6768CA3 9D774702"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Super Poti",
+          "codes": [
+            "388C1F1E 85DD4E1B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Full Heal",
+          "codes": [
+            "D750A2F1 618EB165"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Revive",
+          "codes": [
+            "68C6B806 75BED648"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Revive",
+          "codes": [
+            "72A310AD 5D1B5F8F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Ether",
+          "codes": [
+            "1B50DEEC 86E88DFE"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Ether",
+          "codes": [
+            "4B24F1B7 80154381"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Elixir",
+          "codes": [
+            "DA995A37 13843150"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Elixir",
+          "codes": [
+            "575205FD B9DF1A6B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Sacred Ash",
+          "codes": [
+            "DC082D8B E6A0F512"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - HP Up",
+          "codes": [
+            "8F870066 EDF72B12"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Protein",
+          "codes": [
+            "90DB0769 348E169D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Iron",
+          "codes": [
+            "CBE10A84 75446E14"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Carbos",
+          "codes": [
+            "7913DE4E A5051EA4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Calcium",
+          "codes": [
+            "0B85C22E 006476A6"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Rare Candy",
+          "codes": [
+            "2CD8F4BE 651F5B20"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - PP Up",
+          "codes": [
+            "2D31535D 520FA118"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Zinc",
+          "codes": [
+            "F4E882AB 5F3C357B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - PP Max",
+          "codes": [
+            "627DDFBC 9C360AE5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Nugget",
+          "codes": [
+            "C37561E4 0832247C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Heart Scal",
+          "codes": [
+            "7C04A544 191EBBF5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Sun Stone",
+          "codes": [
+            "12E74297 72395389"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Moon Stone",
+          "codes": [
+            "6E9E1A32 38993A0A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Fire Stone",
+          "codes": [
+            "06DAE66C 3FA64153"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Thunder St",
+          "codes": [
+            "7C5BC2FD 5FA6466E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Water Ston",
+          "codes": [
+            "90BC40CA 83641F5C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Leaf Stone",
+          "codes": [
+            "812BF8A2 68245212"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - EXP. Share",
+          "codes": [
+            "AF468678 A7A9DEB5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Leftovers",
+          "codes": [
+            "9C886A77 C398F061"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Bag - 90 of all Poke",
+          "codes": [
+            "2B7C4036 0773258E",
+            "C4161565 0894F33B",
+            "9C97C47F 11FB19EF",
+            "65FF9C95 1C8B48A5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Bag - 90 of all TM/H",
+          "codes": [
+            "C08356BD 5BD5883E",
+            "25A5CFBD E93ED41B",
+            "A1920C8D D537F165",
+            "891B2E1D E2C5FF5B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Unlock Full Pokédex",
+          "codes": [
+            "15E831F4 2F7ED308",
+            "DA560CBD BFA58820",
+            "6319638A 36FA43D5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Mirage Island always",
+          "codes": [
+            "9684190D 465C0E8B",
+            "65DA389A 09D8882C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Southern Island Even",
+          "codes": [
+            "70C6F3CC 16235BDF"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Southern Island - re",
+          "codes": [
+            "1EC46531 BC58670E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Feebas Tiles - Feeba",
+          "codes": [
+            "1DFB9212 A112FE48",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "All badges Pokedex P",
+          "codes": [
+            "A12FCE77 0C1EC556"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Money - Lotta Money ",
+          "codes": [
+            "D190B41E FAE74D9E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Walk Through Walls",
+          "codes": [
+            "E03B0649 5D67050C",
+            "78DA95DF 44018CB4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Secret Trainer ID di",
+          "codes": [
+            "D20EAE69 9DD6C961",
+            "EB50DE1D 23B8A928"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Share Experience Aft",
+          "codes": [
+            "62FFDFA4 2DF44B8C",
+            "B1283857 DB34BCE4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Fast Egg Hatch (each",
+          "codes": [
+            "9E17B966 367DE205"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Immediate Battle (pr",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 1",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "6FD608D0 B9151D51",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 2",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "C2E5457B 194BACAC",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 1",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "603B9AF4 6BEB589A",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 2",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "3194D376 EF1658C1",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Find Feebas Seed (di",
+          "codes": [
+            "D20EAE69 9DD6C961",
+            "2BC3AB6D 126F4680"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Always Catch Pokemon",
+          "codes": [
+            "6637A9FB 98D7FAA4",
+            "8BB602F7 8CEB681A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Steal other Trainer'",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "6FD608D0 B9151D51",
+            "084197CA 3EA6DE4F",
+            "8E883EFF 92E9660D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Lati@s - Enable",
+          "codes": [
+            "AF9D4840 6F57FCEF"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Lati@s - always",
+          "codes": [
+            "0B8A1422 CB9E28CB"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Lati@s - find o",
+          "codes": [
+            "FDF72C7E B170B68E",
+            "8E883EFF 92E9660D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Tower - regis",
+          "codes": [
+            "3DB4C7B7 334D4A16",
+            "D09C0A28 ADE6DB2E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Lavaridge Egg Enable",
+          "codes": [
+            "46813A10 82A13FB1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "POKEMON SAPPHIRE",
+      "cheats": [
+        {
+          "flags": 2,
+          "name": "Must Be On",
+          "codes": [
+            "F57C7BCB ADC632B9",
+            "651BCD81 B9482575"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Always Female Pokémo",
+          "codes": [
+            "0C3D5307 ABB44D7C",
+            "78DA95DF 44018CB4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Always Male Pokémons",
+          "codes": [
+            "0C3D5307 ABB44D7C",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed HP Gene",
+          "codes": [
+            "28330312 B9E777D4",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Attack Gene",
+          "codes": [
+            "BD34E89C 46AC3FDD",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Defense Gene",
+          "codes": [
+            "C5F9E49A 1DC472F1",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Speed Gene",
+          "codes": [
+            "05DF5C70 440053F5",
+            "25260C8D 25207DAE"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Sp.Atk Gene",
+          "codes": [
+            "0526A00A F717AC06",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Maxed Sp.Def Gene",
+          "codes": [
+            "3362EF2D D6B8C92E",
+            "141BB87C 83D7018F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "All Genes Maxed Out",
+          "codes": [
+            "AB5FF5EF A7716843",
+            "4B5258BD DBEA8F6E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Pokerus",
+          "codes": [
+            "C784FC61 63EBC3B6",
+            "117279A9 85478753"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Select 1st Ability",
+          "codes": [
+            "1801D754 AFDD78F8",
+            "8E883EFF 92E9660D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Select 2nd Ability",
+          "codes": [
+            "1801D754 AFDD78F8",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Switch Shiny/Normal ",
+          "codes": [
+            "9C9A6FEF 898BA04C",
+            "B9D6A4E9 F3B94D86"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Shiny colors in Summ",
+          "codes": [
+            "92565F8E 37F62000",
+            "BCDCB406 2F2FD763"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Day Care - Female in",
+          "codes": [
+            "7A2C40E4 06AFEFA1",
+            "9AB20DC0 97849B9B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Day Care - Male in e",
+          "codes": [
+            "A0F59292 AB07DEFE",
+            "A88D8B3A 975E4033"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Pickup Ability to Ev",
+          "codes": [
+            "8A56A1C4 8FA1C490",
+            "65DA389A 09D8882C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Hardy",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D0E34D66 5796A7D3"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Lonely",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D73BC50A 5F47AA0E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Brave",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "E485844D 2F24038C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Adamant",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "5EB8DEEE 692ED298"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Naughty",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "83286B46 6479AA98"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Bold",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "35EB915F 08F33974"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Docile",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "A58F6F1B BFB13FEF"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Relaxed",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "34027F23 7E7E1599"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Impish",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "CDA2AB99 F89D5BB9"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Lax",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D593BF29 E18AAAE5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Timid",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "1BC372C9 06B4D17F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Hasty",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D4950A99 D729D80A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Serious",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "93F04759 F95753D9"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Jolly",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "E9EC2CBF A7EDD4A7"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Naive",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "56F744B0 37E16732"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Modest",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "E1EB2109 4480C28D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Mild",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "A2461E51 304137B6"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Quiet",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "0456554B 66D3AAF9"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Bashful",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "B05B4CCD A0A1505B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Rash",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "909149AB 2DE8726A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Calm",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "31F62F82 D9A0C100"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Gentle",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "9A41D845 41B93FE6"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Sassy",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "D47DA721 6C3B9FFC"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Careful",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "1A15BF1E E72650E4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Personality Quirky",
+          "codes": [
+            "8CA19DF6 CAAA4B16",
+            "5A7B2626 21ECD183"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level Modifier ",
+          "codes": [
+            "BB0C2FFA D24902D2"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level 100",
+          "codes": [
+            "56307399 25DF4466"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level 50",
+          "codes": [
+            "CBEB73A3 90A08906"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Level 5",
+          "codes": [
+            "A9E4EA45 3651CADD"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Unlimited Items",
+          "codes": [
+            "75602F52 85185328"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Learn any TM/HM for ",
+          "codes": [
+            "4C8DB8CE 6D013B2A",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Learn any TM/HM for ",
+          "codes": [
+            "4527FEBC 861F2C3C",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Make HM Moves erasab",
+          "codes": [
+            "ADA17A5E 7BDBE3F1",
+            "F3FA719F BF1FDAED"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Items - 1st item ",
+          "codes": [
+            "458DC267 EE7A6705"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Master Bal",
+          "codes": [
+            "91B85743 27069397"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Ultra Ball",
+          "codes": [
+            "665AA231 7AF97569"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Great Ball",
+          "codes": [
+            "2B5B13EB AAAD7486"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Poke Ball",
+          "codes": [
+            "BCDEC2FB 74886C64"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Safari Bal",
+          "codes": [
+            "F6AFD320 C7BB151C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Net Ball",
+          "codes": [
+            "7DC18932 F76E288A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Dive Ball",
+          "codes": [
+            "16176578 3EFE931C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Nest Ball",
+          "codes": [
+            "FEC7EE05 88819C1B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Repeat Bal",
+          "codes": [
+            "2AAD3668 BE51C16C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Timer Ball",
+          "codes": [
+            "F2B1C7A2 E4FE2DFE"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Luxury Bal",
+          "codes": [
+            "DB82606F C24E1F25"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Premier Ba",
+          "codes": [
+            "63CD4DFB C0B2FA00"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Full Resto",
+          "codes": [
+            "CE01C8D6 BEDA83FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Potion",
+          "codes": [
+            "82B6F31B AD2D7811"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Hyper Poti",
+          "codes": [
+            "A6768CA3 9D774702"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Super Poti",
+          "codes": [
+            "388C1F1E 85DD4E1B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Full Heal",
+          "codes": [
+            "D750A2F1 618EB165"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Revive",
+          "codes": [
+            "68C6B806 75BED648"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Revive",
+          "codes": [
+            "72A310AD 5D1B5F8F"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Ether",
+          "codes": [
+            "1B50DEEC 86E88DFE"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Ether",
+          "codes": [
+            "4B24F1B7 80154381"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Elixir",
+          "codes": [
+            "DA995A37 13843150"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Max Elixir",
+          "codes": [
+            "575205FD B9DF1A6B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Sacred Ash",
+          "codes": [
+            "DC082D8B E6A0F512"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - HP Up",
+          "codes": [
+            "8F870066 EDF72B12"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Protein",
+          "codes": [
+            "90DB0769 348E169D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Iron",
+          "codes": [
+            "CBE10A84 75446E14"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Carbos",
+          "codes": [
+            "7913DE4E A5051EA4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Calcium",
+          "codes": [
+            "0B85C22E 006476A6"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Rare Candy",
+          "codes": [
+            "2CD8F4BE 651F5B20"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - PP Up",
+          "codes": [
+            "2D31535D 520FA118"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Zinc",
+          "codes": [
+            "F4E882AB 5F3C357B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - PP Max",
+          "codes": [
+            "627DDFBC 9C360AE5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Nugget",
+          "codes": [
+            "C37561E4 0832247C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Heart Scal",
+          "codes": [
+            "7C04A544 191EBBF5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Sun Stone",
+          "codes": [
+            "12E74297 72395389"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Moon Stone",
+          "codes": [
+            "6E9E1A32 38993A0A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Fire Stone",
+          "codes": [
+            "06DAE66C 3FA64153"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Thunder St",
+          "codes": [
+            "7C5BC2FD 5FA6466E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Water Ston",
+          "codes": [
+            "90BC40CA 83641F5C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Leaf Stone",
+          "codes": [
+            "812BF8A2 68245212"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - EXP. Share",
+          "codes": [
+            "AF468678 A7A9DEB5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "PC Item - Leftovers",
+          "codes": [
+            "9C886A77 C398F061"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Bag - 90 of all Poke",
+          "codes": [
+            "2B7C4036 0773258E",
+            "C4161565 0894F33B",
+            "9C97C47F 11FB19EF",
+            "65FF9C95 1C8B48A5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Bag - 90 of all TM/H",
+          "codes": [
+            "C08356BD 5BD5883E",
+            "25A5CFBD E93ED41B",
+            "A1920C8D D537F165",
+            "891B2E1D E2C5FF5B"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Unlock Full Pokédex",
+          "codes": [
+            "15E831F4 2F7ED308",
+            "DA560CBD BFA58820",
+            "6319638A 36FA43D5"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Mirage Island always",
+          "codes": [
+            "9684190D 465C0E8B",
+            "65DA389A 09D8882C"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Southern Island Even",
+          "codes": [
+            "70C6F3CC 16235BDF"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Southern Island - re",
+          "codes": [
+            "1EC46531 BC58670E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Feebas Tiles - Feeba",
+          "codes": [
+            "1DFB9212 A112FE48",
+            "AD86124F 2823D8DA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "All badges Pokedex P",
+          "codes": [
+            "A12FCE77 0C1EC556"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Money - Lotta Money ",
+          "codes": [
+            "D190B41E FAE74D9E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Walk Through Walls",
+          "codes": [
+            "E03B0649 5D67050C",
+            "78DA95DF 44018CB4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Secret Trainer ID di",
+          "codes": [
+            "D20EAE69 9DD6C961",
+            "EB50DE1D 23B8A928"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Share Experience Aft",
+          "codes": [
+            "62FFDFA4 2DF44B8C",
+            "B1283857 DB34BCE4"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Fast Egg Hatch (each",
+          "codes": [
+            "9E17B966 367DE205"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Immediate Battle (pr",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 1",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "6FD608D0 B9151D51",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 2",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "C2E5457B 194BACAC",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 1",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "603B9AF4 6BEB589A",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Type - only 2",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "3194D376 EF1658C1",
+            "B6C5368A 08BE8FF4",
+            "3D0D314F 0B31D0FA"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Find Feebas Seed (di",
+          "codes": [
+            "D20EAE69 9DD6C961",
+            "2BC3AB6D 126F4680"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Always Catch Pokemon",
+          "codes": [
+            "6637A9FB 98D7FAA4",
+            "8BB602F7 8CEB681A"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Steal other Trainer'",
+          "codes": [
+            "B6C5368A 08BE8FF4",
+            "6FD608D0 B9151D51",
+            "084197CA 3EA6DE4F",
+            "8E883EFF 92E9660D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Lati@s - Enable",
+          "codes": [
+            "AF9D4840 6F57FCEF"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Lati@s - always",
+          "codes": [
+            "0B8A1422 CB9E28CB"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Wild Lati@s - find o",
+          "codes": [
+            "FDF72C7E B170B68E",
+            "8E883EFF 92E9660D"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Battle Tower - regis",
+          "codes": [
+            "3DB4C7B7 334D4A16",
+            "D09C0A28 ADE6DB2E"
+          ]
+        },
+        {
+          "flags": 2,
+          "name": "Lavaridge Egg Enable",
+          "codes": [
+            "46813A10 82A13FB1"
+          ]
+        }
+      ]
+    }
+  ]
+}
