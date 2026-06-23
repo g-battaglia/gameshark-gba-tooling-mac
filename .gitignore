@@ -1,0 +1,3 @@
+usbtool
+*.o
+.DS_Store

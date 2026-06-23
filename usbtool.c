@@ -11,6 +11,17 @@
 
 #include <libusb-1.0/libusb.h>
 
+#ifdef __APPLE__
+/* macOS lacks <endian.h>'s htole32 and glibc's program_invocation_name. */
+#include <libkern/OSByteOrder.h>
+#define htole32(x) OSSwapHostToLittleInt32(x)
+#endif
+
+#ifndef __GLIBC__
+/* program_invocation_name is a glibc extension; provide a fallback elsewhere. */
+static const char *program_invocation_name = "usbtool";
+#endif
+
 /* Configuration variables */
 #define CONFIG_SAVE_BLOCK_SIZE         0x8
 #define CONFIG_FIRMWARE_BLOCK_SIZE     0x100
@@ -681,7 +692,9 @@ int main(int argc, char **argv)
     }
     puts("[+] Successfully connected to device.");
 
-    if (libusb_kernel_driver_active(dev, 0))
+    /* Returns 1 only when a kernel driver is genuinely attached; on macOS it
+     * returns LIBUSB_ERROR_NOT_SUPPORTED, which we must not treat as "active". */
+    if (libusb_kernel_driver_active(dev, 0) == 1)
     {
         puts("[+] Trying to detach active kernel driver ...");
         rc = libusb_detach_kernel_driver(dev, 0);
