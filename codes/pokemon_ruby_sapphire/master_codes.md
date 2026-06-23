@@ -51,6 +51,26 @@ code = "AXVI"  # or AXVP, AXPP, etc.
 ea, eb = arcrypt.encrypt(arcrypt.seed(0), (struct.unpack("<I", code.encode())[0], 0x001dc0de))
 ```
 
+## Wild Pokémon Modifier (all 386) — two sets, two masters
+
+The 386 wild modifiers come from two different FAQ sets that use **different
+hook lines**, so they live in different games on the device:
+
+| Range | FAQ set | Hook line | Decrypted pattern | Lives in game |
+|-------|---------|-----------|-------------------|---------------|
+| #001–251 (Kanto/Johto) | 1.2.1 (old) | `F57C7BCB ADC632B9` (rom 0x10ae, the std EUR master) | enabler `39E924C4 4136A9DD` + species → decodes to `0x00002000+dex` | `POKEMON RUBY` / `SAPPHIRE` (alongside the generic cheats) |
+| #252–386 (Hoenn) | 1.2.4 (new) | `A2E564FE 0FB58A54` (rom 0x3a82a) | species alone → decodes to `write 0x02307d22 = 0x115+(dex-252)` (internal species index) | `RUBY HOENN` / `SAPPHIRE HOENN` (dedicated games) |
+
+Both Hoenn games reuse the same game-ID line as the main games (AXVI/AXPP), so
+the same cartridge matches all four entries. All 386 species codes are bulk-
+verified to decode to their exact expected value (`verify.py`); #343 Swalot
+was reconstructed cryptographically from the pattern after a transcription error.
+
+- `wild_modifier_001_251.tsv` — Kanto/Johto species codes (1.2.1, use with enabler + std master)
+- `wild_modifier_252_386.tsv` — Hoenn species codes (1.2.4, use with new master `A2E564FE 0FB58A54`)
+- `database_full.ardb` — the flashed 9-game, 1026-cheat blob
+
+
 ### USA (AXVE / AXPE) — for reference only
 
 ```
