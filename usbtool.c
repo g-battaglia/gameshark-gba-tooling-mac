@@ -780,6 +780,12 @@ int main(int argc, char **argv)
             }
             cmd_write_codes(dev, target_file);
             fclose(target_file);
+            /* Finalize the write session: without this disconnect the device
+             * stays in transfer mode, fails to commit the new database, and
+             * reports empty version/storage until it is power-cycled. */
+            cmd_disconnect(dev);
+            puts("[+] Write finalized (disconnect sent). Power-cycling the "
+                 "device is recommended before further use.");
             cmd_action &= ~ACTION_WRITE_CHEATS;
         break;
         case ACTION_READ_SAVE:
@@ -802,6 +808,9 @@ int main(int argc, char **argv)
             }
             cmd_write_save(dev, target_file);
             fclose(target_file);
+            cmd_disconnect(dev);
+            puts("[+] Write finalized (disconnect sent). Power-cycling the "
+                 "device is recommended before further use.");
             cmd_action &= ~ACTION_WRITE_SAVE;
         break;
     }

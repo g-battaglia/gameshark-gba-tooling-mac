@@ -30,6 +30,27 @@ F57C7BCB ADC632B9      -> C40010AE 00008401   (hook)
   corrupted game-ID line that decodes to "AXVF" (nonexistent) — ignore it; the
   correct game-ID line is the AXVP one above.
 
+### Variant cartridge: AXVI (the Ruby cart in this project's device)
+
+The actual Ruby cartridge read by the connected device reports game code
+**`AXVI`**, not the standard EUR `AXVP` (likely a reproduction/variant cart).
+The EUR hook is identical (the ROM body is the same); only the game-ID line
+differs. Generated locally and round-trip verified:
+
+```
+# Ruby variant (AXVI) — matches this cart
+F57C7BCB ADC632B9      -> C40010AE 00008401   (hook)
+93A1C658 8DD5F1D0      -> 49565841 001DC0DE   (AXVI)
+```
+
+To build the master for any 4-byte game code, encrypt `(u32(code), 0x001dc0de)`
+under `arcrypt.seed(0)`:
+```python
+import arcrypt, struct
+code = "AXVI"  # or AXVP, AXPP, etc.
+ea, eb = arcrypt.encrypt(arcrypt.seed(0), (struct.unpack("<I", code.encode())[0], 0x001dc0de))
+```
+
 ### USA (AXVE / AXPE) — for reference only
 
 ```
